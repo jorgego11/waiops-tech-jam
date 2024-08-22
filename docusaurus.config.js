@@ -8,8 +8,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula")
 const config = {
   title: "IBM AIOps",
   tagline: "",
-  //url: "https://github.com/",
-  url: "https://jorgego11.github.io",
+  url: "https://github.com/",
+  //url: "https://jorgego11.github.io",
   baseUrl: "/waiops-tech-jam/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
