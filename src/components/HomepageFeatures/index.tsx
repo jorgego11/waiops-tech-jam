@@ -11,21 +11,20 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: "AIOps TechJams",
+    title: "",
     Svg: require("@site/static/img/undraw_techjam.svg").default,
     description: (
       <>
-        Check out the latest <Link to="/labs/jam-in-a-box">TechJam Labs</Link>{" "}
-        from the IBM AIOps Automation SWAT team.
+        
       </>
     ),
   },
   {
-    title: "SWAT Guides",
+    title: "",
     Svg: require("@site/static/img/undraw_guides.svg").default,
     description: (
       <>
-        General use <Link to="/blog/">Guides</Link> shared by the SWAT team.
+       
       </>
     ),
   },

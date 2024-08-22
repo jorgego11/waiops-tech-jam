@@ -18,7 +18,7 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             to="/labs/jam-in-a-box"
           >
-            View the latest AIOps TechJam Lab 🧑‍🔬
+            AIOps TechXchange Labs 🧑‍🔬
           </Link>
         </div>
       </div>

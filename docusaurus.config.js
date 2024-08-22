@@ -6,8 +6,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula")
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "IBM AIOps Automation SWAT",
-  tagline: "SWAT TechJams & Guides",
+  title: "IBM AIOps",
+  tagline: "",
   url: "https://github.com/",
   baseUrl: "/waiops-tech-jam/",
   onBrokenLinks: "throw",
@@ -16,7 +16,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "ibm", // Usually your GitHub org/user name.
+  organizationName: "jorgego11", // Usually your GitHub org/user name.
   projectName: "waiops-tech-jam", // Usually your repo name.
   deploymentBranch: "gh-pages",
   // Required for search to function correctly
@@ -91,7 +91,7 @@ const config = {
             position: "left",
             label: "Labs",
           },
-          {to: "/blog", label: "Guides", position: "left"},
+         
           // TODO: Automations coming soon
           // {
           //   to: "/automations",
@@ -99,7 +99,7 @@ const config = {
           //   position: "left",
           // },
           {
-            href: "https://github.com/IBM/waiops-tech-jam",
+            href: "https://github.com/jorgego11/waiops-tech-jam",
             label: "GitHub",
             position: "right",
           },
@@ -138,7 +138,7 @@ const config = {
             items: [
               {
                 label: "IBM",
-                href: "https://www.ibm.com/au-en",
+                href: "https://www.ibm.com",
               },
             ],
           },
@@ -151,7 +151,7 @@ const config = {
               },
               {
                 label: "GitHub",
-                href: "https://github.com/IBM/waiops-tech-jam",
+                href: "https://github.com/jorgego11/waiops-tech-jam",
               },
             ],
           },
